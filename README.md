@@ -10,7 +10,6 @@
 
 [![🏆 제3회 COSS 스타트업 경진대회 대상](https://img.shields.io/badge/🏆_제3회_COSS_스타트업_경진대회-대상_수상-gold?style=for-the-badge)](https://stately-pika-5fe740.netlify.app/)
 [![Demo](https://img.shields.io/badge/Live_Demo-바로가기-brightgreen?style=for-the-badge&logo=netlify)](https://stately-pika-5fe740.netlify.app/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 
 ---
