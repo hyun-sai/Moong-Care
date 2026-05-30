@@ -8,9 +8,15 @@
 
 **음성 바이오마커 기반 감정 케어 서비스**
 
-[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](http://localhost:5175)
+[![🏆 제2회 COSS 스타트업 경진대회 대상](https://img.shields.io/badge/🏆_제2회_COSS_스타트업_경진대회-대상_수상-gold?style=for-the-badge)](https://stately-pika-5fe740.netlify.app/)
+[![Demo](https://img.shields.io/badge/Live_Demo-바로가기-brightgreen?style=for-the-badge&logo=netlify)](https://stately-pika-5fe740.netlify.app/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
+
+---
+
+### 🏆 제2회 COSS 스타트업 경진대회 **대상 수상**
+바이오헬스 혁신융합대학 × 실감미디어 혁신융합대학 (2025.05.23~24)
 
 </div>
 
