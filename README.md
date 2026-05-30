@@ -8,14 +8,14 @@
 
 **음성 바이오마커 기반 감정 케어 서비스**
 
-[![🏆 제2회 COSS 스타트업 경진대회 대상](https://img.shields.io/badge/🏆_제2회_COSS_스타트업_경진대회-대상_수상-gold?style=for-the-badge)](https://stately-pika-5fe740.netlify.app/)
+[![🏆 제3회 COSS 스타트업 경진대회 대상](https://img.shields.io/badge/🏆_제3회_COSS_스타트업_경진대회-대상_수상-gold?style=for-the-badge)](https://stately-pika-5fe740.netlify.app/)
 [![Demo](https://img.shields.io/badge/Live_Demo-바로가기-brightgreen?style=for-the-badge&logo=netlify)](https://stately-pika-5fe740.netlify.app/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 
 ---
 
-### 🏆 제2회 COSS 스타트업 경진대회 **대상 수상**
+### 🏆 제3회 COSS 스타트업 경진대회 **대상 수상**
 바이오헬스 혁신융합대학 × 실감미디어 혁신융합대학 (2025.05.23~24)
 
 </div>
@@ -144,6 +144,47 @@ Moong-Care/
 - 🖥️ **3년차 개발 팀워크** — 전원 컴퓨터과학 학부에서 3년간 함께 프로젝트 수행
 - 🚀 **균형 잡힌 인재 구성** — 협력형·친화형·리더십형·창조형 강점 조화
 - 🏆 **실전 운영·검증** — 게임 전략 분석 사이트 사업자 등록 운영, 287명 사용자 확보
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/leegoeun-art">
+          <img src="https://avatars.githubusercontent.com/u/127366729" width="80" style="border-radius:50%"/><br/>
+          <b>이고은</b><br/>
+          <sub>👑 팀장</sub><br/>
+          <sub>@leegoeun-art</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/hyun-sai">
+          <img src="https://avatars.githubusercontent.com/u/192984875" width="80" style="border-radius:50%"/><br/>
+          <b>최현성</b><br/>
+          <sub>🛠️ 팀원</sub><br/>
+          <sub>@hyun-sai</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LeeGJin">
+          <img src="https://avatars.githubusercontent.com/u/78292636" width="80" style="border-radius:50%"/><br/>
+          <b>이경진</b><br/>
+          <sub>🛠️ 팀원</sub><br/>
+          <sub>@LeeGJin</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/somgam6373">
+          <img src="https://avatars.githubusercontent.com/u/105191945" width="80" style="border-radius:50%"/><br/>
+          <b>이준혁</b><br/>
+          <sub>🛠️ 팀원</sub><br/>
+          <sub>@somgam6373</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
