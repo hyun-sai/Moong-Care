@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <title>뭉케어 프로토타입 v0.1</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Nanum+Pen+Script&family=Hi+Melody&display=swap" rel="stylesheet" />
+
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.25.6/babel.min.js"></script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      background: #ddd7cc;
+      background-image: radial-gradient(circle at 30% 40%, #e8e0d5 0%, #cfc8bc 100%);
+      display: flex; align-items: center; justify-content: center; min-height: 100vh;
+      font-family: 'Gaegu', cursive;
+    }
+    #root { display: flex; align-items: center; justify-content: center; }
+
+    @keyframes pulse-ring {
+      0% { transform: scale(1); opacity: 0.6; }
+      100% { transform: scale(1.4); opacity: 0; }
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    @keyframes waveBar {
+      0%, 100% { transform: scaleY(0.4); }
+      50% { transform: scaleY(1); }
+    }
+    @keyframes slideUp {
+      from { transform: translateY(100%); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    .screen-enter { animation: fadeIn 0.25s ease both; }
+    .pulse-ring { animation: pulse-ring 1.8s ease-out infinite; }
+    .bounce { animation: bounce 2s ease-in-out infinite; }
+    .wave-bar { animation: waveBar 0.9s ease-in-out infinite; }
+    .slide-up { animation: slideUp 0.3s ease both; }
+
+    /* scrollbar */
+    ::-webkit-scrollbar { width: 0; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel" src="kit.jsx"></script>
+  <script type="text/babel" src="screens.jsx"></script>
+  <script type="text/babel" src="voice.jsx"></script>
+  <script type="text/babel" src="app.jsx"></script>
+</body>
+</html>
