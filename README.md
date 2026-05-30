@@ -54,6 +54,14 @@ ChatGPT 주간 사용자 8억 명. 18~21세 청년 5명 중 1명이 힘들 때 A
 
 ---
 
+## 🎨 서비스 상세페이지
+
+<div align="center">
+  <img src="detail-page.jpg" width="400" alt="뭉케어 상세페이지"/>
+</div>
+
+---
+
 ## 🔍 Problem
 
 ### AI는 '텍스트'만 듣는다
